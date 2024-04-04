@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9x6wQ3+5WxJ+07aifOULlKBoYIyB4jpxxXUOQDxEXdVVjA2ieasubhOuO1quLA71j31M0fL7s2eWdJOIExnA7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\97798\\Desktop\\Bipana\\Programming paradigms\\Test2_Movie_Bipana\\Test2_Movie_Bipana.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\97798\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
